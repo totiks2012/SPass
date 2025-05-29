@@ -1,4 +1,4 @@
-# SPass
+# PassLite или старое название SPass
 Simple_password_manager
 ### PassLite: Лёгкий менеджер паролей
 
